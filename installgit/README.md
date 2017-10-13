@@ -27,3 +27,6 @@ pages 的分支，然后点击 save。
 ![](10.jpg)
 ![](11.jpg)
 接下来在打开你的github网页就可以看到你上传的文件了。
+# 六、注意事项
+## 1、有时候git push -u origin master没用时，就先git pull origin master，再git push -u origin master便可成功。
+## 2、push出错时，可试试 “先按Esc ,再按'shift"+':'，然后输'q!'再回车”

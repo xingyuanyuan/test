@@ -52,6 +52,7 @@
 2、“"select * from name"”里的name是表名
 
 * 代码如下：
+```java
 import java.sql.*;
 
 public class base {
@@ -106,6 +107,7 @@ st= conn.createStatement();
             //6.释放资源 over     
    }    
 }
+```
 
 
 

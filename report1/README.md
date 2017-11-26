@@ -2,8 +2,10 @@
 <html>
 <head>
 <meta charset="utf-8"> 
-	<title>工作报告</title>
+	
 </head>
+
+
 <body>
 <h1>MinGW安装配置</h1>
 <h2>1、从官网找到64位下载安装</h2>

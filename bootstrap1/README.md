@@ -4,17 +4,19 @@
 
 1.在浏览器搜索[bootstrap中文网](http://www.bootcss.com/)
 
-2.点击***BOOTSTARP3中文文档***
+2.点击<b><i>BOOTSTARP3中文文档</b></i>
+
 ![](1.jpg)
 
-3.点击***下载BOOTSTRAP***
+3.点击<b><i>下载BOOTSTRAP</b></i>
+
 ![](2.jpg)
 
-4.点击***下载BOOTSTRAP***就可下载bootstrap的完整框架了
+4.点击<b><i>下载BOOTSTRAP</b></i>就可下载bootstrap的完整框架了
+
 ![](3.jpg)
 
 5.新建一个文件夹里面把bootstrap下载好的文件全部放进去，再建立一个html的文件
-其中
 
 6.开始在新建的html文件里写内容
 

@@ -1,8 +1,13 @@
 # JAVA界面制作计算器和下拉菜单
+
 ## 一、制作计算器新建文件。
+
 先打开File的new ，进入JAVA project,写project name,就会生成一个src。然后在右键点击新建包的名字和表格名。
+
 ![](1.JPG)
+
 ## 二、书写计算器的代码
+```
 package calculator;
 
 import java.awt.*;
@@ -155,13 +160,18 @@ public class Calculater implements ActionListener {
         new Calculater("计算器");
     }
 }
+```
 ## 三、运行程序
+
 ![](2.JPG)
 
 
 ## 一、下拉菜单 新建文件
+
 ![](3.JPG)
+
 ## 二、书写程序
+```
 package combobox;
 
 import java.awt.Color;
@@ -263,7 +273,10 @@ public class Combobox extends javax.swing.JFrame {
 	// End of variables declaration//GEN-END:variables
 
 }
+```
+
 ## 三、运行程序
+
 ![](4.JPG)
 
 

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8"> 
-	<title>工作报告</title>
+	<title> 工作报告 </title>
 </head>
 <body>
 <h1>MinGW安装配置</h1>

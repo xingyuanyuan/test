@@ -4,7 +4,7 @@
 <meta charset="utf-8"> 
 	
 </head>
-<title> 工作报告 </title>
+
 
 <body>
 <h1>MinGW安装配置</h1>

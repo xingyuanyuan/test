@@ -4,15 +4,15 @@
 
 1.在浏览器搜索[bootstrap中文网](http://www.bootcss.com/)
 
-2.点击*** BOOTSTARP3中文文档 ***
+2.点击***BOOTSTARP3中文文档***
 
 ![](1.jpg)
 
-3.点击***下载BOOTSTRAP ***
+3.点击***下载BOOTSTRAP***
 
 ![](2.jpg)
 
-4.点击*** 下载BOOTSTRAP ***就可下载bootstrap的完整框架了
+4.点击***下载BOOTSTRAP***就可下载bootstrap的完整框架了
 
 ![](3.jpg)
 
@@ -22,7 +22,7 @@
 
 ## 2、字体图标
 
-* 找到** 组件 **并点击，然后就可以看到字体图标的样式了
+* 找到**组件**并点击，然后就可以看到字体图标的样式了
 
 ![](2.jpg)
 

@@ -21,6 +21,7 @@
 ![](6.jpg)
 
 代码如下：
+```
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.event.ActionEvent;
@@ -188,6 +189,7 @@ public class formtest extends JFrame {
         });
     }
 }
+```
 
 ## 3、运行结果
 

@@ -37,7 +37,7 @@ pages 的分支，然后点击 save。
 
 以上，test就建好了。
 
-#五、上传文件
+# 五、上传文件
 
 * 选择一个盘，单击右键选择git bash here，然后会出来一个界面。用来在 f 盘创建 test 文件放你的github上的test repository，克隆test repository到 test 文件中。
 

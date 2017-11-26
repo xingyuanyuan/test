@@ -8,11 +8,11 @@
 
 ![](1.jpg)
 
-3.点击**下载BOOTSTRAP**
+3.点击<b><i>下载BOOTSTRAP</b></i>
 
 ![](2.jpg)
 
-4.点击**下载BOOTSTRAP**就可下载bootstrap的完整框架了
+4.点击<b><i>下载BOOTSTRAP</b></i>就可下载bootstrap的完整框架了
 
 ![](3.jpg)
 

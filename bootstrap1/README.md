@@ -4,7 +4,7 @@
 
 1.在浏览器搜索[bootstrap中文网](http://www.bootcss.com/)
 
-2.点击***BOOTSTARP3中文文档***
+2.点击<b><i>BOOTSTARP3中文文档</b></i>
 
 ![](1.jpg)
 

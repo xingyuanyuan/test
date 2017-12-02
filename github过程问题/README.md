@@ -10,7 +10,9 @@
 
 ![](2.jpg)
 
-成功后git push
+然后在git commit -m "要添加的信息"
+
+成功后git push -u origin master
 
 ![](3.jpg)
 

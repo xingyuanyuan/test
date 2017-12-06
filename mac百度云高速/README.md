@@ -1,6 +1,6 @@
 # 关于在mac系统令百度云高速下载的过程
 
-##1.首先先去搜索教程
+## 1.首先先去搜索教程
 
 我找到的是这篇：
 
@@ -67,7 +67,7 @@ ps aux|grep aria2c
 ```
 ![](aria2c正常运行.png)
 
-##3.安装chrome浏览器网盘助手的插件
+## 3.安装chrome浏览器网盘助手的插件
 
 下载网盘助手地址：[http://pan.baidu.com/s/1jIsMSWA](http://pan.baidu.com/s/1jIsMSWA)
 密码：xudf
